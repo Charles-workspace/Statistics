@@ -163,7 +163,7 @@ grid on;
 ```
 
 
-![Marginal_PMF.jpg](https://github.com/Charles-workspace/Statistics/blob/feature/problem_3/Problem_3/prob_2_d.jpg)
+![Marginal_PMF.jpg](https://github.com/Charles-workspace/Statistics/blob/main/Problem_3/prob_2_d.jpg)
 
 (e) Sketch the conditional PMF $p_{X2|X1} [x2_j |x1 = 6]$
 
@@ -204,5 +204,5 @@ grid on;
 
 ```
 
-![Conditional_PMF.jpg](Problem_3/prob_2_e.jpg)
+![Conditional_PMF.jpg](https://github.com/Charles-workspace/Statistics/blob/main/Problem_3/prob_2_e.jpg)
 

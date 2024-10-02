@@ -42,7 +42,7 @@ grid on;
 Sketch:
 
 
-![Marginal_PMF_X.jpg](Problem_2/Marginal_PMF_X.jpg)
+![Marginal_PMF_X.jpg](https://github.com/Charles-workspace/Statistics/blob/main/Problem_2/Marginal_PMF_X.jpg)
 
 (b) Computing mean $\mu_x$,
 

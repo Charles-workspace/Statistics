@@ -39,8 +39,10 @@ ylabel('p_X(x)');
 title('Marginal PMF of X');
 grid on;
 ```
-<img src="/Users/charles/GIT_local/Statistics/Problem 2/Marginal_PMF_X.fig" alt="Logo">
+Sketch:
 
+
+![Marginal_PMF_X.jpg](https://github.com/Charles-workspace/Statistics/blob/main/Problem_2/Marginal_PMF_X.jpg)
 
 (b) Computing mean $\mu_x$,
 
